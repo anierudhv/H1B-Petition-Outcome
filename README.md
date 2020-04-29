@@ -1,6 +1,6 @@
-# 6242_VisualizingH1BVisas
+# Predicting H1B Visa petition outcomes using machine learning
 
-DESCRIPTION
+## Description
 
 Data on H-1B visa applications is used to develop an interactive and user-friendly visualization tool that provides interstate and intrastate differences between job functions, number of H-1B visas accepted, average salaries per job function, and other variables.
 
@@ -14,13 +14,13 @@ With the refined data, the predictive model is built with the following codes.
 
 -6242_preprocessing.R -6242_category_reduction.ipynb -6242_modeling.R
 
-INSTALLATION
+## Installation
 
 The following software must be installed.
 
 -OpenRefine -R Studio -Python
 
-EXECUTION
+## Execution
 
 Using OpenRefine, the following data cleaning tasks with both datasets must be done.
 
